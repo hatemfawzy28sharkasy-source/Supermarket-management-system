@@ -1,5 +1,5 @@
 # Supermarket Management System
-![My Screenshot](images/Screenshot%202026-03-13%20145022.png)
+[My Screenshot](images/Screenshot%202026-03-13%20145022.png)
 
 ## Overview
 
