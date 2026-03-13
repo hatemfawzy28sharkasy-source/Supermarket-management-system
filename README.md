@@ -193,8 +193,3 @@ This project was developed as a **learning project** to demonstrate:
 * CRUD operations
 * Inventory and billing system design
 
----
-
-# Author
-
-Developed as a Python & Database practice project.
