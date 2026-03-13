@@ -1,5 +1,5 @@
 # Supermarket Management System
-Screenshot 2026-03-13 145022.png
+![My Project Screenshot](Screenshot%202026-03-13%20145022.png)
 
 ## Overview
 
